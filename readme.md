@@ -8,3 +8,7 @@
 Html:5
 ```
 
+| ESCUELA |  CIUDA | CARRERA |
+|---------|--------|---------|
+| TECNOLO | NOGALES| SISTEMAS|
+
